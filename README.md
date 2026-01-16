@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, #I'#m @akhil030698<br>Senior Frontend Engineer (React.js | Next.js | TypeScript)<br><br>📍 Location: Pune, Maharashtra, India<br><br>🔭 Currently Working At:<br>Infosys — Pune, India<br><br>🌱 Expert In / Working With:<br>React.js, Next.js, TypeScript, Redux, Tailwind CSS, Material UI, SSR/SSG, Performance Optimization<br><br>👯 Open to Collaborate On:<br>Frontend Architecture, React.js & Next.js projects<br><br>💬 Ask Me About:<br>React.js, Next.js, TypeScript, UI Performance, Component Architecture, Testing (Jest, RTL)<br><br>📫 How to Reach Me:<br><br>📧 Email: akhilesh.pathak7724@gmail.com<br><br>📱 Phone: +91 8770498917<br><br>
+#Hi 👋, I'm @akhil030698<br>#Senior Frontend Engineer (React.js | Next.js | TypeScript)<br><br>📍 Location: Pune, Maharashtra, India<br><br>🔭 Currently Working At:<br>Infosys — Pune, India<br><br>🌱 Expert In / Working With:<br>React.js, Next.js, TypeScript, Redux, Tailwind CSS, Material UI, SSR/SSG, Performance Optimization<br><br>👯 Open to Collaborate On:<br>Frontend Architecture, React.js & Next.js projects<br><br>💬 Ask Me About:<br>React.js, Next.js, TypeScript, UI Performance, Component Architecture, Testing (Jest, RTL)<br><br>📫 How to Reach Me:<br><br>📧 Email: akhilesh.pathak7724@gmail.com<br><br>📱 Phone: +91 8770498917<br><br>
 
 
 ## 🌐 Socials:
